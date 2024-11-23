@@ -8,7 +8,7 @@ import { BsFillEnvelopeFill, BsFillTelephoneFill } from "react-icons/bs";
 import Home3 from "./Home3";
 import About from "../About/About";
 import WorkExperience from "../Experience/WorkExperience";
-import ResumeNew from "../Resume/ResumeNew";
+// import ResumeNew from "../Resume/ResumeNew";
 
 function Home() {
   return (
