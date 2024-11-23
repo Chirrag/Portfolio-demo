@@ -13,7 +13,7 @@ function Footer() {
         <Col className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
-              <a
+              {/* <a
                 href="#"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -21,10 +21,10 @@ function Footer() {
                 className="display-6"
               >
                 <AiFillGithub />
-              </a>
+              </a> */}
             </li>
             <li className="social-icons">
-              <a
+              {/* <a
                 href="#"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -32,10 +32,10 @@ function Footer() {
                 className="display-6"
               >
                 <FaLinkedinIn />
-              </a>
+              </a> */}
             </li>
             <li className="social-icons">
-              <a
+              {/* <a
                 href="#"
                 style={{ color: "white" }}
                 target="_blank" 
@@ -43,7 +43,7 @@ function Footer() {
                 className="display-6"
               >
                 <AiFillInstagram />
-              </a>
+              </a> */}
             </li>
           </ul>
         </Col>
